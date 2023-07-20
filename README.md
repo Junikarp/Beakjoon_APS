@@ -1,2 +1,8 @@
 # Beakjoon_APS
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+
+* Beakjoon 알고리즘 문제를 풀이하는 공간입니다.
+
+
+
+
+[BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
